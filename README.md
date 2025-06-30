@@ -73,7 +73,7 @@ Place historical `.csv` files in the `data/` folder. Files must contain:
 Example sources:
 - [Yahoo Finance](https://finance.yahoo.com)
 - [Alpha Vantage](https://www.alphavantage.co)
-- [Wall Street Journa]((https://www.wsj.com))
+- [Wall Street Journal](https://www.wsj.com)
 
 ---
 
