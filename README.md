@@ -44,8 +44,6 @@ Trades are simulated, logged, and evaluated over historical data.
 ```
 mean-reversion-ml-strategy/
 ├── data/                      # CSVs with historical prices (e.g., AAPL.csv, TSLA.csv)
-├── models/                    # Optional: for saving trained ML models
-├── notebooks/                 # Optional: for interactive exploration
 ├── mean_reversion.py          # Main backtester script
 ├── requirements.txt           # Project dependencies
 ├── strategy_summary_table.csv # Output with Sharpe/CAGR/P&L/Drawdown per asset
