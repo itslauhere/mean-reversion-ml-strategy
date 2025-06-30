@@ -114,6 +114,6 @@ The script will:
 
 ## 👩‍💻 Author
 
-Built by [Laurentia Liennart](https://github.com/itslauhere) — Cognitive Science @ UCSD with Machine Learning & Neural Computation specialization.  
+Built by [Laurentia Liennart](https://github.com/itslauhere) — Cognitive Science @ UC San Diego with a specialization in Machine Learning & Neural Computation.  
 Experience in Southeast Asian markets as an Investment Analyst @ Kayana Kapital.
 
